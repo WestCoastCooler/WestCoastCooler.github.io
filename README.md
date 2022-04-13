@@ -1,2 +1,2 @@
 # WestCoastCooler.github.io
-My demo page
+My very first html 'sample' :) page
